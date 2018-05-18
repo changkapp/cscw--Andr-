@@ -2,12 +2,6 @@
 
 <html>
 
-<head>
-
-<title>teste </title>
-
-</head>
-
 <body>
 
 
